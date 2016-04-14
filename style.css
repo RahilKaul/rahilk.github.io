@@ -1,15 +1,15 @@
 h1 {
-	color: bluw;
+	color: white;
 }
-.blue{
-	color: blue;
+.white{
+	color: white;
 }
 img{
 	width: 400px;
 }
 
 .header-text{
-	background: red;
+	background: purple;
 	width: 50%;
 	margin-left: 200px;
 }
