@@ -1,4 +1,4 @@
-# [rahilk.github.io](rahilkaul.github.io)
+# [rahilk.github.io](https://rahilkaul.github.io/)
 
 ## My online resume
 
